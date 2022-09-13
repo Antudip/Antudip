@@ -1,3 +1,6 @@
+![Presentation banner](imgs/banner.png)
+
+
 ### Hi there 👋
 
 <!--
