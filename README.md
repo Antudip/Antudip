@@ -4,7 +4,7 @@
 ### Hi there 👋, I'm Antu D'Ippolito, a web full stack developer... i need job.
 
 
-  <li ><a href="mailto:magustin.villagran@gmail.com">Mail me 📩</a></li>
+  <li ><a href="mailto:antudippolito123@gmail.com">Mail me 📩</a></li>
 </ul>
 <br>
 <ul >Some skills...
@@ -12,7 +12,6 @@
   <li >Lenguages</li>
     <br>
     <p>
-@@ -45,36 +45,53 @@
   <li >Enviroment tools</li>
     <br>
     <p>
