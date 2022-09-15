@@ -30,7 +30,7 @@
 <h3 align="center">Want to know more about me? 👇🏽</h3>
 <br>
 <ul> Conect with me... <in class=""></in>
-  <li ><a href="[https://www.linkedin.com/in/agust%C3%ADn-villagr%C3%A1n/](https://www.linkedin.com/in/antu-dippolito-a5892823b/)" target="blank">My LinkedIn </a><img height=15 width=20 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[www.linkedin.com/in/agust%C3%ADn-villagr%C3%A1n/](https://www.linkedin.com/in/antu-dippolito-a5892823b/)"/></li>
+    <li ><a href="https://www.linkedin.com/in/antu-dippolito-a5892823b/" target="blank">My LinkedIn </a><img height=15 width=20 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/antu-dippolito-a5892823b/"/></li>
   <li ><a href="mailto:antudippolito123@gmail.com">Mail me 📩</a></li>
 </ul>
 <br>
