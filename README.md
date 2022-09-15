@@ -38,7 +38,14 @@
   <li >Lenguages</li>
     <br>
     <p>
-@@ -45,36 +45,53 @@
+      <ul>
+        <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> JavaScript</li>
+        <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> TypeScript </li>
+        <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> HTML </li>
+        <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="52"/> CSS </li>
+      </ul>
+    </p>
+    <br>
   <li >Enviroment tools</li>
     <br>
     <p>
