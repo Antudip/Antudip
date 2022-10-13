@@ -23,7 +23,7 @@
 <br>
 <ul >I'm...
   <li >Open to contribute to philanthropic projects. ⛑</li>
-  <li >Finishing SoyHenry's Bootcamp 🏁.</li>
+  <li >Finished SoyHenry's Bootcamp 🏁.</li>
   <li >Open to work. 🙋🏽‍♂️</li>
 </ul>
 <br>
