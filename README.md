@@ -35,7 +35,7 @@
 </ul>
 <br>
 <h3 align="center">Some skills 🚀</h3>
-  <li >Lenguages</li>
+  <li >Lenguajes</li>
     <br>
     <p>
       <ul>
